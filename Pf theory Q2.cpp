@@ -43,7 +43,7 @@ int main()
     int solarBonus    = 100;  
     int totalPlanets  = 10;   
 
-    printf("\n====Starting Space Mission Fuel Simulation:\n\n");
+    printf("\n====Starting Space Mission Fuel Simulation=======\n\n");
 
     calculateFuel(initialFuel, consumption, recharge,
                   solarBonus, 1, totalPlanets);
